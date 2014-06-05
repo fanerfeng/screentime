@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, MusicBox!</string>
+	<string name="app_name">健康管家</string>
+	<string name="warmtips">温馨提示</string>
+	<string name="sporttips">你玩的时间太久了\n该起来活动一下了!</string>
+	<string name="timeSelectioin">防沉迷时间设定</string>
+	<string name="time0min">不设定</string>
+	<string name="time10min">10分钟</string>
+	<string name="time20min">20分钟</string>	
+	<string name="time30min">30分钟</string>
+	<string name="time40min">40分钟</string>
+	<string name="time50min">50分钟</string>
+	<string name="time60min">60分钟</string>
+	<string name="appSelection">选择需要监测的应用</string>
+	<string name="installedApps">已安装应用的数量为：</string>
+	<string name="versions">Copyright 2014-2018\n version 0.0.1</string>
+</resources>
